@@ -1,0 +1,13 @@
+*** OPTIMAL SOLUTION ***
+** INSTANCE:
+V 60
+E 665
+K 6
+
+** LOG:
+ROOTS/OBJ:
+3: 64
+11: 66
+24: 38
+40: 80
+46: 44

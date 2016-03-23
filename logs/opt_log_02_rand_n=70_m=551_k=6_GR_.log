@@ -1,0 +1,24 @@
+*** OPTIMAL SOLUTION ***
+** INSTANCE:
+V 70
+E 551
+K 6
+
+** LOG:
+ROOT GROUP: 5
+INDUCED EDGES:
+  35 75: 0
+  31 75: 1
+  27 75: -0
+  18 75: -0
+  10 75: 0
+  61 75: 0
+  46 75: -0
+  8 75: -0
+OPTIMAL VALUE: 21
+TOTAL TIME:    1.16463
+** SOLUTION: feasible
+28--29:6
+28--66:3
+31--58:7
+58--66:5

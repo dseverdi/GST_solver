@@ -1,0 +1,32 @@
+*** APPROXIMATION ***
+INSTANCE:
+V 130
+E 2994
+K 8
+
+** LOG:
+ROOTS/OBJ:
+6: 18.5
+11: 15.5
+30: 18.5
+85: 16
+91: 14
+98: 14
+102: 17
+
+OPT ROOT:91
+OBJ:     14
+SOLUTION TYPE: INTEGRAL
+APPROX:           14
+
+** TIME:
+AVG. TIME for LPs:       0.325636
+DEFINE TERMINALS:        0
+STEINER SOLVER  :        0
+TOTAL TIME:              15.5851
+** SOLUTION: feasible 
+5--27:2
+14--27:1
+14--120:2
+27--91:3
+89--91:6

@@ -1,0 +1,32 @@
+   0 string 33D32945  STP Steiner Tree Problem File
+SECTION Comment
+Name 'GSP instanca 01'
+Remark 'First example for GST problem.'
+END
+
+SECTION Graph
+Nodes 11
+Edges 11
+E 0 9 6
+E 1 9 1
+E 1 10 1
+E 2 8 5
+E 2 9 3
+E 3 10 8
+E 4 6 8
+E 4 9 4
+E 5 6 7
+E 5 10 5
+E 6 7 9
+END
+
+SECTION Terminals
+Terminals 5
+T 0 1 3 5 8 
+T 1 3 5 7 10 
+T 1 4 5 6 7 
+T 2 4 6 9 10 
+T 3 6 7 8 10 
+END
+
+EOF

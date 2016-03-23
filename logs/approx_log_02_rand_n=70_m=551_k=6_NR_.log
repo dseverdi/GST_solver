@@ -1,0 +1,33 @@
+*** APPROXIMATION ***
+INSTANCE:
+V 70
+E 551
+K 6
+
+** LOG:
+ROOTS/OBJ:
+8: 34.5
+10: 27
+18: 35
+27: 25
+31: 21
+35: 35
+46: 30
+61: 33
+
+OPT ROOT:31
+OBJ:     21
+SOLUTION TYPE: FRACTIONAL
+APPROX:           22
+
+** TIME:
+AVG. TIME for LPs:       0.0408256
+DEFINE TERMINALS:        2.2e-05
+STEINER SOLVER  :        0.000779
+TOTAL TIME:              1.7055
+** SOLUTION: feasible 
+31--39:2
+31--58:7
+39--41:1
+40--58:7
+20--41:5

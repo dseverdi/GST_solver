@@ -1,0 +1,16 @@
+*** APPROXIMATION ***
+** INSTANCE:
+V 60
+E 665
+K 6
+
+** LOG:
+APPROX:           38
+
+** TIME:
+
+** ANTS PER COLONY:      500
+ANT COLONY RUNS:           10
+AVG. TIME for ACOGS:       1.63021
+TOTAL TIME:                16.3021
+** SOLUTION: feasible 
